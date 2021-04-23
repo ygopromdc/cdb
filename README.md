@@ -1,2 +1,2 @@
 # cdb
-MDC Cards CDB
+MDC Cards Database

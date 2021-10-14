@@ -1,2 +1,0 @@
-# cdb
-MDC Cards Database
